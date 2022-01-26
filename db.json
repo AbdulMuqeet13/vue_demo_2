@@ -32,6 +32,39 @@
         "time": "12:00",
         "petsAllowed":"true",
         "organizer": "Abdul-Muqeet"
+      },
+      {
+        "id":111,
+        "category":"cat1",
+        "title": "Some Title 1",
+        "description": "Some Description", 
+        "location": "Sparko Sol",
+        "date": "January 28, 2022",
+        "time": "12:00",
+        "petsAllowed":"true",
+        "organizer": "Abdul-Muqeet"
+      },
+      {
+        "id":222,
+        "category":"cat2",
+        "title": "Some Title 2",
+        "description": "Some Description", 
+        "location": "Sparko Sol",
+        "date": "January 28, 2022",
+        "time": "12:00",
+        "petsAllowed":"true",
+        "organizer": "Abdul-Muqeet"
+      },
+      {
+        "id":333,
+        "category":"cat3",
+        "title": "Some Title 3",
+        "description": "Some Description", 
+        "location": "Sparko Sol",
+        "date": "January 28, 2022",
+        "time": "12:00",
+        "petsAllowed":"true",
+        "organizer": "Abdul-Muqeet"
       }
       ]
 }
