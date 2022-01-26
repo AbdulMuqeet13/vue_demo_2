@@ -1,7 +1,7 @@
 {
   "events":[
         {
-        "id":"234",
+        "id":123,
         "category":"animal welfare",
         "title": "Cat Adoption Day",
         "description": "Some Description", 
@@ -12,9 +12,9 @@
         "organizer": "Abdul-Muqeet"
       },
       {
-        "id":"234",
-        "category":"animal welfare",
-        "title": "Cat Adoption Day",
+        "id":456,
+        "category":"tech fest",
+        "title": "Technology Festival",
         "description": "Some Description", 
         "location": "Sparko Sol",
         "date": "January 28, 2022",
@@ -23,9 +23,9 @@
         "organizer": "Abdul-Muqeet"
       },
       {
-        "id":"234",
-        "category":"animal welfare",
-        "title": "Cat Adoption Day",
+        "id":789,
+        "category":"food",
+        "title": "Food Event",
         "description": "Some Description", 
         "location": "Sparko Sol",
         "date": "January 28, 2022",
