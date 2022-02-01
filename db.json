@@ -1,70 +1,7 @@
 {
   "events":[
-        {
-        "id":123,
-        "category":"animal welfare",
-        "title": "Cat Adoption Day",
-        "description": "Some Description", 
-        "location": "Sparko Sol",
-        "date": "January 28, 2022",
-        "time": "12:00",
-        "petsAllowed":"true",
-        "organizer": "Abdul-Muqeet"
-      },
-      {
-        "id":456,
-        "category":"tech fest",
-        "title": "Technology Festival",
-        "description": "Some Description", 
-        "location": "Sparko Sol",
-        "date": "January 28, 2022",
-        "time": "12:00",
-        "petsAllowed":"true",
-        "organizer": "Abdul-Muqeet"
-      },
-      {
-        "id":789,
-        "category":"food",
-        "title": "Food Event",
-        "description": "Some Description", 
-        "location": "Sparko Sol",
-        "date": "January 28, 2022",
-        "time": "12:00",
-        "petsAllowed":"true",
-        "organizer": "Abdul-Muqeet"
-      },
-      {
-        "id":111,
-        "category":"cat1",
-        "title": "Some Title 1",
-        "description": "Some Description", 
-        "location": "Sparko Sol",
-        "date": "January 28, 2022",
-        "time": "12:00",
-        "petsAllowed":"true",
-        "organizer": "Abdul-Muqeet"
-      },
-      {
-        "id":222,
-        "category":"cat2",
-        "title": "Some Title 2",
-        "description": "Some Description", 
-        "location": "Sparko Sol",
-        "date": "January 28, 2022",
-        "time": "12:00",
-        "petsAllowed":"true",
-        "organizer": "Abdul-Muqeet"
-      },
-      {
-        "id":333,
-        "category":"cat3",
-        "title": "Some Title 3",
-        "description": "Some Description", 
-        "location": "Sparko Sol",
-        "date": "January 28, 2022",
-        "time": "12:00",
-        "petsAllowed":"true",
-        "organizer": "Abdul-Muqeet"
-      }
+        { id: '1', label: 'name' },
+        { id: '2', label: 'description' },
+        { id: '3', label: 'phone' }
       ]
 }
