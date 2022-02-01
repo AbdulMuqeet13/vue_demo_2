@@ -1,7 +1,16 @@
 {
   "events":[
-        { 'id': '1', 'label': 'name' },
-        { 'id': '2', 'label': 'description' },
-        { 'id': '3', 'label': 'phone' }
+        {
+          "id": 1,
+          "label": "name" 
+        },
+        {
+          "id": 2,
+          "label": "description" 
+        },
+        {
+          "id": 3,
+          "label": "phone" 
+        },
       ]
 }
